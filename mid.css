@@ -1,0 +1,8 @@
+.mid{
+  display: flex;
+  justify-content: center;
+  
+}
+#myCanvas{
+  box-shadow: 5px 5px 10px black;
+}
